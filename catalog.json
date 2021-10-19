@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Tomaso Climene Albinoni",
+        "description": "Imagen del compositor Tomaso Climene Albinoni",
+        "image_url": "https://raw.githubusercontent.com/emilio-devesa/fp/main/albinoni.jpg"
+    },
+    {
+        "name": "Johann Sebastian Bach",
+        "description": "Imagen del compositor Johann Sebastian Bach",
+        "image_url": "https://raw.githubusercontent.com/emilio-devesa/fp/main/bach.jpg"
+    },
+    {
+        "name": "Wolfgang Amadeus Mozart",
+        "description": "Imagen del compositor Wolfgang Amadeus Mozart",
+        "image_url": "https://raw.githubusercontent.com/emilio-devesa/fp/main/mozart.jpg"
+    },
+    {
+        "name": "Ludwig Van Beethoven",
+        "description": "Imagen del compositor Ludwig Van Beethoven",
+        "image_url": "https://raw.githubusercontent.com/emilio-devesa/fp/main/beethoven.jpg" 
+    },
+    {
+        "name": "Achille-Claude Debussy",
+        "description": "Imagen del compositor Achille-Claude Debussy",
+        "image_url": "https://raw.githubusercontent.com/emilio-devesa/fp/main/debussy.jpg"
+    }
+]
