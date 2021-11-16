@@ -23,5 +23,25 @@
         "name": "Achille-Claude Debussy",
         "description": "Imagen del compositor Achille-Claude Debussy",
         "image_url": "https://raw.githubusercontent.com/emilio-devesa/fp/main/debussy.jpg"
+    },
+    {
+        "name": "Georg Friedrich Händel",
+        "description": "Imagen del compositor Georg Friedrich Händel",
+        "image_url": "https://raw.githubusercontent.com/emilio-devesa/fp/main/handel.jpg"
+    },
+    {
+        "name": "Georg Philipp Telemann",
+        "description": "Imagen del compositor Georg Philipp Telemann",
+        "image_url": "https://raw.githubusercontent.com/emilio-devesa/fp/main/telemann.jpg"
+    },
+    {
+        "name": "Franz Liszt",
+        "description": "Imagen del compositor Franz Liszt",
+        "image_url": "https://raw.githubusercontent.com/emilio-devesa/fp/main/liszt.jpg"
+    },
+    {
+        "name": "Wilhelm Richard Wagner",
+        "description": "Imagen del compositor Wilhelm Richard Wagner",
+        "image_url": "https://raw.githubusercontent.com/emilio-devesa/fp/main/wagner.jpg"
     }
 ]
